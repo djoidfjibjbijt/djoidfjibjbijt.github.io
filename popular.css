@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500;800&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+}
+#top{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkgreen;
+}
+
+.l{
+    float: left;
+}
+li {
+    display: flex;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    margin: 0px;
+    text-decoration: none;
+}
+#top :hover {
+    background-color: blue;
+}
+.view{
+    color: darkgreen;
+    margin-left: 100px;
+    size: 40px;
+}
+#books{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+#climate{
+    border: 1px solid red;
+    box-shadow: 3px 3px 3px 5px red;
+    background-color: white;
+}
+#ch {
+    position: absolute;
+    top: 500px;
+    padding-left: 25%;
+  }
+#climate{
+    border: 1px solid white;
+    background-color: white;
+}
+.s{
+    font-size: large;
+}
+#life{
+    border: 1px solid red;
+    background-color: white;
+    box-shadow: 3px 3px 3px 5px red;
+}
+#lh {
+    position: absolute;
+    top: 100%;
+    padding-left: 25%;
+}
+#Life{
+    background-color: white;
+}
+#elon{
+    background-color: white;
+    box-shadow: 3px 3px 3px 5px red;
+}
+#eh{
+    position: absolute;
+    top: 1500px;
+    padding-left: 25%;
+}
+#elon{
+    border: 1px solid red;
+    background-color: white;
+}
+#steve{
+    background-color: white;
+    box-shadow: 3px 3px 3px 5px red;
+}
+#sh{
+    position: absolute;
+    top: 2200px;
+    padding-left: 25%;
+}
+#steve{
+    border: 1px solid red;
+    background-color: white;
+}
+#one{
+    background-color: white;
+    box-shadow: 3px 3px 3px 5px red;
+}
+#oh{
+    position: absolute;
+    top: 2700px;
+    padding-left: 25%;
+}
+#one{
+    border: 1px solid red;
+    background-color: white;
+}
+#startup{
+    background-color: white;
+    box-shadow: 3px 3px 3px 5px red;
+}
+#uh{
+    position: absolute;
+    top: 3200px;
+    padding-left: 25%;
+}
+#startup{
+    border: 1px solid red;
+    background-color: white;
+}
+#popular{
+    background-color: red;
+}

@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500;800&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#top{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+}
+
+.l {
+    float: left;
+}
+li {
+    display: flex;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    margin: 0px;
+    text-decoration: none;
+}
+#top :hover {
+    background-color: blue;
+}
+#lines{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+#p{
+    color: green;
+}
+#latest{
+    height: auto;
+    font-size: 25px;
+    padding: 5px;
+}
+.how{
+    box-shadow: 3px 3px 3px 5px red;
+    border: 1px solid red;
+    display: inline-block;
+    overflow: hidden;
+    margin: 35px;
+    margin-left: 35px;
+}
+#climate{
+    margin-left: 350px;
+}
+#life{
+    height: fit-content;
+}
+.center{
+    height: 512px;
+    width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    overflow: hidden;
+}
+.s{
+    font-size: large;
+}
+.view{
+    color: darkgreen;
+    margin-left: 23%;
+    margin-right: 53%;
+    size: 40px;
+}
+#steve{
+    margin-left: 350px;
+}
+#elon{
+    margin-left: 130px;
+}
+h1{
+    margin: 30px;
+}
+.center2{
+    height: 512px;
+    width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0%;
+    padding-right: 0%;
+    overflow: hidden;
+}
+#one{
+    margin-left: 335px;
+}
+#startup{
+    margin-left: 130px;
+}
+.center3{
+    height: 512px;
+    width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0%;
+    padding-right: 0%;
+    overflow: hidden;
+}
+#index{
+    background-color: red;
+}
+
